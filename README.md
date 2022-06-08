@@ -3,7 +3,8 @@ Starter and completed companion projects for the blog article “Get Started wit
 
 ## The projects
 
-The starter project is a companion for the Auth0 blog article, [Get Started with iOS Authentication using Swift and UIKit](https://auth0.com/blog/get-started-ios-authentication-swift-uikit/). It’s
+The projects in this repo are companion projects for the Auth0 blog article, [Get Started with iOS Authentication using Swift and UIKit](https://auth0.com/blog/get-started-ios-authentication-swift-uikit/).
+
 
 ### The starter project
 
